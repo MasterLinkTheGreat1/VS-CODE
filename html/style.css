@@ -1,0 +1,67 @@
+@font-face {
+    src: url("SFPRODISPLAYBOLD.OTF") format("OpenType");
+    font-family: 'SFProBo';
+  }
+  
+  @font-face {
+    src: url("SFPRODISPLAYREGULAR.OTF") format("OpenType");
+    font-family: 'SFPro';
+  }
+  
+  
+  .blue {
+    color: blue;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .brown {
+    color: brown;
+  }
+  .offwhite {
+    color: #FAF9F6;
+  }
+  .yellow {
+    color: yellow;
+  }
+  .pink {
+    color: pink;
+  }
+  .white {
+    color: white;
+  }
+  .maroon {
+    color: maroon;
+  }
+  
+  body {
+    background-color: #121212;
+    color: #aaaaaa
+  }
+  
+  p {
+    font-size: 30px;
+    font-family: 'SFPro';
+  }
+  
+  h1 {
+    font-size: 70px;
+    font-family: 'SFProBo';
+  }
+  
+  ul {
+    font-size: 27px;
+    font-family: 'SFPro';
+  }
+  
+  
+  .rainbow {
+      background: linear-gradient(90.02deg, #70F1D5 0.02%, #E065B3 27.09%, #FAE560 51.04%, #54B8F3 76.56%, #9260DE 99.99%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    font-size: 32px;
+    font-weight: bold;
+  }
